@@ -2,9 +2,9 @@
 Library         SeleniumLibrary
 
 *** Variables ***
-${URL}        https://deveworkpermit.onlineasset.co.th/
-${EMAIL}  nonnoi_ECCF@gmail.com
-${PASSWORD}  P@ssw0rd
+${URL}       ''
+${EMAIL}     ''
+${PASSWORD}  ''
 
 *** Keywords ***
 Open Website 
